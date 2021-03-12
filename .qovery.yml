@@ -1,0 +1,11 @@
+---
+application:
+  name: "html-sample"
+  project: "Node_Project"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-html-sample"
+  routes:
+  - application_name: "html-sample"
+    paths:
+    - "/*"
